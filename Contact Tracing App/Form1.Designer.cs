@@ -41,10 +41,10 @@ namespace Contact_Tracing_App
             this.lblAge = new System.Windows.Forms.Label();
             this.txtAge = new System.Windows.Forms.TextBox();
             this.lblEmail = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
             this.bttnSubmit = new System.Windows.Forms.Button();
             this.lblTitle = new System.Windows.Forms.Label();
             this.lblInstructions = new System.Windows.Forms.Label();
+            this.txtEmail = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // txtName
@@ -151,13 +151,6 @@ namespace Contact_Tracing_App
             this.lblEmail.TabIndex = 13;
             this.lblEmail.Text = "Email Address:";
             // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(111, 175);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(252, 23);
-            this.textBox1.TabIndex = 14;
-            // 
             // bttnSubmit
             // 
             this.bttnSubmit.BackColor = System.Drawing.Color.RoyalBlue;
@@ -191,16 +184,23 @@ namespace Contact_Tracing_App
             this.lblInstructions.TabIndex = 17;
             this.lblInstructions.Text = "Kindly fill up the following information needed.";
             // 
+            // txtEmail
+            // 
+            this.txtEmail.Location = new System.Drawing.Point(111, 174);
+            this.txtEmail.Name = "txtEmail";
+            this.txtEmail.Size = new System.Drawing.Size(252, 23);
+            this.txtEmail.TabIndex = 18;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.SkyBlue;
             this.ClientSize = new System.Drawing.Size(384, 258);
+            this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.lblInstructions);
             this.Controls.Add(this.lblTitle);
             this.Controls.Add(this.bttnSubmit);
-            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.lblEmail);
             this.Controls.Add(this.txtAge);
             this.Controls.Add(this.lblAge);
@@ -234,10 +234,10 @@ namespace Contact_Tracing_App
         private System.Windows.Forms.Label lblAge;
         private System.Windows.Forms.TextBox txtAge;
         private System.Windows.Forms.Label lblEmail;
-        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button bttnSubmit;
         private System.Windows.Forms.Label lblTitle;
         private System.Windows.Forms.Label lblInstructions;
+        private System.Windows.Forms.TextBox txtEmail;
     }
 }
 
