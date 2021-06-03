@@ -24,11 +24,11 @@ namespace Contact_Tracing_Application
                 String createDate = DateTime.Now.ToLongDateString();
 
                 outputFile = File.AppendText(createDate);
-                outputFile.WriteLine("Name:" + txtName.Text);
-                outputFile.WriteLine("Age:" + txtAge.Text);
-                outputFile.WriteLine("Address:" + txtAddress.Text);
-                outputFile.WriteLine("Contact Number:" + txtContactNumber.Text);
-                outputFile.WriteLine("Email Address:" + txtEmail.Text);
+                outputFile.WriteLine("Name: " + txtName.Text);
+                outputFile.WriteLine("Age: " + txtAge.Text);
+                outputFile.WriteLine("Address: " + txtAddress.Text);
+                outputFile.WriteLine("Contact Number: " + txtContactNumber.Text);
+                outputFile.WriteLine("Email Address: " + txtEmail.Text);
                 outputFile.WriteLine();
                 outputFile.WriteLine();
                 outputFile.Close();

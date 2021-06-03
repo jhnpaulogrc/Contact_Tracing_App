@@ -29,15 +29,15 @@ namespace Contact_Tracing_Application
         {
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
-                txtResponse.Clear();
+                
                 StreamReader inputFile;
                 inputFile = File.OpenText(openFileDialog1.FileName);
-
                 string line;
+
                 while ((line = inputFile.ReadLine()) != null)
                 {
                     string Enter = "\r\n";
-                    txtResponse.Text = txtResponse.Text + line + Enter;
+                    txtResponse.Text = txtResponse.Text + line+ Enter ;
                 }
             }
             
