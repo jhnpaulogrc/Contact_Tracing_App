@@ -1,0 +1,35 @@
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\bin\Debug\net5.0-windows\Contact Tracing Application.exe
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\bin\Debug\net5.0-windows\Contact Tracing Application.deps.json
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\bin\Debug\net5.0-windows\Contact Tracing Application.runtimeconfig.json
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\bin\Debug\net5.0-windows\Contact Tracing Application.runtimeconfig.dev.json
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\bin\Debug\net5.0-windows\Contact Tracing Application.dll
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\bin\Debug\net5.0-windows\ref\Contact Tracing Application.dll
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\bin\Debug\net5.0-windows\Contact Tracing Application.pdb
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.csprojAssemblyReference.cache
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.csproj.GenerateResource.cache
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.AssemblyInfoInputs.cache
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.AssemblyInfo.cs
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.csproj.CoreCompileInputs.cache
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.dll
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\obj\Debug\net5.0-windows\ref\Contact Tracing Application.dll
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.pdb
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.genruntimeconfig.cache
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact Tracing Application\obj\Debug\net5.0-windows\Contact_Tracing_Application.formSubmit.resources
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\bin\Debug\net5.0-windows\Contact Tracing Application.exe
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\bin\Debug\net5.0-windows\Contact Tracing Application.deps.json
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\bin\Debug\net5.0-windows\Contact Tracing Application.runtimeconfig.json
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\bin\Debug\net5.0-windows\Contact Tracing Application.runtimeconfig.dev.json
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\bin\Debug\net5.0-windows\Contact Tracing Application.dll
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\bin\Debug\net5.0-windows\ref\Contact Tracing Application.dll
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\bin\Debug\net5.0-windows\Contact Tracing Application.pdb
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\Contact_Tracing_Application.formSubmit.resources
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.csproj.GenerateResource.cache
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.AssemblyInfoInputs.cache
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.AssemblyInfo.cs
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.csproj.CoreCompileInputs.cache
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.dll
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\ref\Contact Tracing Application.dll
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.pdb
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.genruntimeconfig.cache
