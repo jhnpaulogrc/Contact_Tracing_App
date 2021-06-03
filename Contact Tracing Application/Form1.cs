@@ -42,5 +42,11 @@ namespace Contact_Tracing_Application
                 txtEmail.Text = "";
             
         }
+        private void bttnView_Click(object sender, EventArgs e)
+        {
+            var formView = new formView();
+            this.Hide();
+            formView.Show();
+        }
     }
 }

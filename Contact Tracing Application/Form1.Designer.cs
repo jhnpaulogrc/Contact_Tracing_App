@@ -72,6 +72,7 @@ namespace Contact_Tracing_Application
             this.bttnView.TabIndex = 1;
             this.bttnView.Text = "View Response";
             this.bttnView.UseVisualStyleBackColor = false;
+            this.bttnView.Click += new System.EventHandler(this.bttnView_Click);
             // 
             // txtName
             // 

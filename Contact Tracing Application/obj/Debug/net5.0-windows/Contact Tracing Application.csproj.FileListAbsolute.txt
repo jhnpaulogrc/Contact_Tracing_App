@@ -33,3 +33,5 @@ C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_T
 C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\ref\Contact Tracing Application.dll
 C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.pdb
 C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.genruntimeconfig.cache
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\Contact Tracing Application.csprojAssemblyReference.cache
+C:\Users\Pau.DESKTOP-O7PKKNO\Downloads\OOP\Contact Tracing Application\Contact_Tracing_App\Contact Tracing Application\obj\Debug\net5.0-windows\Contact_Tracing_Application.formView.resources
